@@ -1,0 +1,29 @@
+{
+  "name": "imageuploadnodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dampopgit/ImageUploadNodeJS.git"
+  },
+  "author": "ddpf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dampopgit/ImageUploadNodeJS/issues"
+  },
+  "homepage": "https://github.com/dampopgit/ImageUploadNodeJS#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.0",
+    "file-type": "^16.0.1",
+    "knex": "^0.21.13",
+    "multer": "^1.4.2",
+    "sqlite3": "^5.0.0"
+  }
+}
